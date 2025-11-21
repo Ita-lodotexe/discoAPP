@@ -1,0 +1,382 @@
+[
+  {
+    "titulo": "Whatever People Say I Am, That's What I'm Not",
+    "banda": "Arctic Monkeys",
+    "ano": 2006,
+    "genero": "Indie Rock, Garage Rock",
+    "descricao": "O álbum de estreia que se tornou o mais vendido na primeira semana na história do Reino Unido. Captura a energia crua da juventude e da vida noturna com letras inteligentes e riffs contagiantes.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/cf/9b/96/cf9b9637-f619-eceb-5382-e9b4d44e74fb/dj.npwkgmai.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1",
+    "youtube": "https://www.youtube.com/results?search_query=Whatever+People+Say+I+Am+That%27s+What+I%27m+Not+Arctic+Monkeys"
+  },
+  {
+    "titulo": "Favourite Worst Nightmare",
+    "banda": "Arctic Monkeys",
+    "ano": 2007,
+    "genero": "Indie Rock, Post-Punk Revival",
+    "descricao": "Expandindo o som do seu antecessor, este álbum é mais rápido e pesado, mantendo a sagacidade lírica. Solidificou a banda como uma das maiores do rock moderno.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
+    "youtube": "https://www.youtube.com/results?search_query=Favourite+Worst+Nightmare+Arctic+Monkeys"
+  },
+  {
+    "titulo": "Humbug",
+    "banda": "Arctic Monkeys",
+    "ano": 2009,
+    "genero": "Psychedelic Rock, Stoner Rock",
+    "descricao": "Uma virada sonora em direção a um som mais sombrio e pesado, com produção de Josh Homme (Queens of the Stone Age). Um álbum denso e atmosférico que dividiu opiniões, mas mostrou grande evolução.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/07/92/4a0792a5-03c9-10d8-a60c-94fa8bb6508a/mzi.nlrajrgr.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/5DiRL5rQBLU1g1X6e7qj6C",
+    "youtube": "https://www.youtube.com/results?search_query=Humbug+Arctic+Monkeys"
+  },
+  {
+    "titulo": "Suck It and See",
+    "banda": "Arctic Monkeys",
+    "ano": 2011,
+    "genero": "Indie Rock, Guitar Pop",
+    "descricao": "Afastando-se da escuridão de Humbug, este álbum abraça melodias mais brilhantes e guitarras com influências do pop dos anos 60, com letras românticas e poéticas.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Features/62/5b/66/dj.wlpuxxqn.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst",
+    "youtube": "https://www.youtube.com/results?search_query=Suck+It+and+See+Arctic+Monkeys"
+  },
+  {
+    "titulo": "AM",
+    "banda": "Arctic Monkeys",
+    "ano": 2013,
+    "genero": "Rock, Glam Rock",
+    "descricao": "O álbum que os catapultou para o estrelato mundial. Combina riffs pesados de guitarra com batidas inspiradas no R&B e hip-hop, criando um som noturno, sexy e irresistível.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cc/0f/2d/cc0f2d02-5ff1-10e7-eea2-76863a55dbad/887828031795.png/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+    "youtube": "https://www.youtube.com/results?search_query=AM+Arctic+Monkeys"
+  },
+  {
+    "titulo": "Tranquility Base Hotel & Casino",
+    "banda": "Arctic Monkeys",
+    "ano": 2018,
+    "genero": "Lounge Pop, Psychedelic Pop, Rock",
+    "descricao": "Uma ousada mudança de direção, trocando os riffs de guitarra por composições no piano. É um álbum conceitual sobre um resort de luxo na Lua, com uma atmosfera retrô-futurista.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/ac/06/f3ac06b3-9217-adc8-cc33-8e930293e495/887835044184.png/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/2GROf0WKoP5Er2M9RXVNNs?si=ocO301NQQG-xBMV9P7_YvQ",
+    "youtube": "https://www.youtube.com/results?search_query=Tranquility+Base+Hotel+%26+Casino+Arctic+Monkeys"
+  },
+  {
+    "titulo": "The Car",
+    "banda": "Arctic Monkeys",
+    "ano": 2022,
+    "genero": "Orchestral Rock, Baroque Pop",
+    "descricao": "Continuando a exploração de sons cinematográficos, 'The Car' é um álbum elegante e sofisticado, repleto de arranjos de cordas e uma atmosfera de filme de espionagem dos anos 70.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0f/03/0f/0f030fb9-a529-dba5-4e9d-4fbf2ed25037/887828045563.png/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/2gro7plAjKp01yrW56qOth",
+    "youtube": "https://www.youtube.com/results?search_query=The+Car+Arctic+Monkeys"
+  },
+  {
+    "titulo": "Adrenaline",
+    "banda": "Deftones",
+    "ano": 1995,
+    "genero": "Nu Metal, Alternative Metal",
+    "descricao": "O álbum de estreia da banda, que ajudou a definir o som do nu metal dos anos 90. É um trabalho cru e agressivo, impulsionado pela energia e pela dinâmica vocal de Chino Moreno.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/30YN03R4Bjl8Qwz8wPRoXG?si=dcf70543d8594c3c",
+    "youtube": "https://www.youtube.com/results?search_query=Adrenaline+Deftones"
+  },
+  {
+    "titulo": "Around the Fur",
+    "banda": "Deftones",
+    "ano": 1997,
+    "genero": "Alternative Metal, Nu Metal",
+    "descricao": "Considerado um clássico do gênero, este álbum expande a sonoridade da banda, equilibrando peso e melodia. Contém hinos como 'My Own Summer (Shove It)' e 'Be Quiet and Drive (Far Away)'.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/7o4UsmV37Sg5It2Eb7vHzu?si=861a25d0ac0e4875",
+    "youtube": "https://www.youtube.com/results?search_query=Around+the+Fur+Deftones"
+  },
+  {
+    "titulo": "White Pony",
+    "banda": "Deftones",
+    "ano": 2000,
+    "genero": "Alternative Metal, Art Rock",
+    "descricao": "Um marco na carreira da banda e no metal alternativo. 'White Pony' é um álbum experimental e atmosférico, que incorpora influências de shoegaze e trip-hop, e ganhou um Grammy por 'Elite'.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/5LEXck3kfixFaA3CqVE7bC?si=59a53f3fec444207",
+    "youtube": "https://www.youtube.com/results?search_query=White+Pony+Deftones"
+  },
+  {
+    "titulo": "Deftones",
+    "banda": "Deftones",
+    "ano": 2003,
+    "genero": "Alternative Metal",
+    "descricao": "O álbum autointitulado é um dos mais pesados e sombrios da discografia. Explora texturas densas de guitarra e uma atmosfera melancólica, com destaques como 'Minerva' e 'Hexagram'.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/6252G7bGCVijXlqAjtjeDP?si=8fab82e914344558",
+    "youtube": "https://www.youtube.com/results?search_query=Deftones+2003+Deftones"
+  },
+  {
+    "titulo": "Saturday Night Wrist",
+    "banda": "Deftones",
+    "ano": 2006,
+    "genero": "Alternative Metal, Experimental Rock",
+    "descricao": "Criado durante um período de tensões internas, o álbum reflete essa turbulência em sua sonoridade experimental e fragmentada. 'Hole in the Earth' e 'Cherry Waves' são faixas notáveis.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/4o1KnoVpzXZceJxyjELEQB?si=2821de1d4e504047",
+    "youtube": "https://www.youtube.com/results?search_query=Saturday+Night+Wrist+Deftones"
+  },
+  {
+    "titulo": "Diamond Eyes",
+    "banda": "Deftones",
+    "ano": 2010,
+    "genero": "Alternative Metal",
+    "descricao": "Visto como um renascimento, o álbum foi o primeiro com o baixista Sergio Vega. É um trabalho focado e coeso, que equilibra perfeitamente a agressividade e a beleza etérea da banda.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/4T97r2arNiQLX82pUApZfq?si=d70aa8a4f4604c98",
+    "youtube": "https://www.youtube.com/results?search_query=Diamond+Eyes+Deftones"
+  },
+  {
+    "titulo": "Koi No Yokan",
+    "banda": "Deftones",
+    "ano": 2012,
+    "genero": "Alternative Metal, Shoegaze",
+    "descricao": "O título significa 'premonição de amor' em japonês. O álbum é uma exploração de texturas sonoras, combinando peso e melodias expansivas de forma magistral.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/4PIVdqvL1Rc7T7Vfsr8n8Q?si=f6de42de0b13439f",
+    "youtube": "https://www.youtube.com/results?search_query=Koi+No+Yokan+Deftones"
+  },
+  {
+    "titulo": "Gore",
+    "banda": "Deftones",
+    "ano": 2016,
+    "genero": "Alternative Metal, Post-Metal",
+    "descricao": "Um dos álbuns mais experimentais, 'Gore' divide opiniões com sua abordagem menos direta e mais atmosférica, explorando paisagens sonoras complexas e influências de post-metal.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/e9/89/e0e9890e-19a5-b959-e0b2-2010d4425ad2/093624926467.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/3tsXyEbUQehXPaRFCS8K1n?si=c8524cdc681847ea",
+    "youtube": "https://www.youtube.com/results?search_query=Gore+Deftones"
+  },
+  {
+    "titulo": "Ohms",
+    "banda": "Deftones",
+    "ano": 2020,
+    "genero": "Alternative Metal",
+    "descricao": "Marcando o retorno do produtor Terry Date, 'Ohms' é um retorno à forma que sintetiza os vários elementos da carreira da banda: peso, melodia, agressão e beleza.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/b6/1a/b4b61aee-c236-4061-55de-15c8a57ca32a/093624892120.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/3IHClJIXFPxf3xa0BNaQOd?si=effb8ac44bfd4fcd",
+    "youtube": "https://www.youtube.com/results?search_query=Ohms+Deftones"
+  },
+  {
+    "titulo": "Nevermind",
+    "banda": "Nirvana",
+    "ano": 1991,
+    "genero": "Grunge, Rock Alternativo",
+    "descricao": "O álbum que definiu uma geração e levou o rock alternativo ao mainstream. Com o hino 'Smells Like Teen Spirit', mudou a paisagem da música popular para sempre.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7",
+    "youtube": "https://www.youtube.com/results?search_query=Nevermind+Nirvana"
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "banda": "Pink Floyd",
+    "ano": 1973,
+    "genero": "Rock Progressivo, Art Rock",
+    "descricao": "Uma obra-prima conceitual que explora temas como conflito, ganância, tempo e doença mental. É um dos álbuns mais vendidos de todos os tempos e um marco da engenharia de som.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3b/Dark_Side_of_the_Moon.png",
+    "spotify": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv",
+    "youtube": "https://www.youtube.com/results?search_query=The+Dark+Side+of+the+Moon+Pink+Floyd"
+  },
+  {
+    "titulo": "Is This It",
+    "banda": "The Strokes",
+    "ano": 2001,
+    "genero": "Indie Rock, Garage Rock Revival",
+    "descricao": "O álbum que revitalizou o rock de garagem no início dos anos 2000. Com sua sonoridade lo-fi e melodias cativantes, definiu a estética indie da década.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ea/04/d4/ea04d45d-6f5d-ede6-fb64-71f3e6a6e62f/dj.ojkzzidd.jpg/600x599bb.jpg",
+    "spotify": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE",
+    "youtube": "https://www.youtube.com/results?search_query=Is+This+It+The+Strokes"
+  },
+  {
+    "titulo": "Currents",
+    "banda": "Tame Impala",
+    "ano": 2015,
+    "genero": "Psychedelic Pop, Synth-pop",
+    "descricao": "Uma transição do rock psicodélico para um som mais dançante e baseado em sintetizadores. O álbum explora temas de transformação pessoal e se tornou um clássico moderno.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/2e/b4/a82eb490-f30a-a321-461a-0383c88fec95/15UMGIM23316.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
+    "youtube": "https://www.youtube.com/results?search_query=Currents+Tame+Impala"
+  },
+  {
+    "titulo": "To Pimp a Butterfly",
+    "banda": "Kendrick Lamar",
+    "ano": 2015,
+    "genero": "Hip Hop, Jazz Rap, Funk",
+    "descricao": "Uma obra-prima aclamada pela crítica que mistura jazz, funk e poesia. O álbum aborda questões raciais, discriminação e identidade com uma complexidade lírica impressionante.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
+    "youtube": "https://www.youtube.com/results?search_query=To+Pimp+a+Butterfly+Kendrick+Lamar"
+  },
+  {
+    "titulo": "Sobrevivendo no Inferno",
+    "banda": "Racionais MC's",
+    "ano": 1997,
+    "genero": "Rap, Hip Hop Brasileiro",
+    "descricao": "Um retrato cru e contundente da vida na periferia de São Paulo. Considerado o álbum mais importante da história do rap brasileiro, é um marco cultural e social.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/5a/8d/545a8d92-9f62-c4f7-fdf3-7b073291144c/0.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/1UzrzuOmZfBgXyS3pgKD10?si=79c9ee5ff77345d2",
+    "youtube": "https://www.youtube.com/results?search_query=Sobrevivendo+no+Inferno+Racionais+MCs"
+  },
+  {
+    "titulo": "Master of Puppets",
+    "banda": "Metallica",
+    "ano": 1986,
+    "genero": "Thrash Metal, Heavy Metal",
+    "descricao": "Considerado um dos álbuns mais influentes da história do metal. Com composições complexas e riffs agressivos, solidificou o Metallica como uma força dominante no gênero.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/69/f9/05/69f905ed-ff04-58a2-8de2-1b5338745f19/858978005226.png/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21",
+    "youtube": "https://www.youtube.com/results?search_query=Master+of+Puppets+Metallica"
+  },
+  {
+    "titulo": "Roots",
+    "banda": "Sepultura",
+    "ano": 1996,
+    "genero": "Groove Metal, Nu Metal",
+    "descricao": "Um álbum inovador que fundiu metal pesado com ritmos tribais brasileiros, incluindo uma colaboração histórica com a tribo Xavante. Um marco do metal mundial.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/aa/c9/30aac975-fe35-e53c-0aa7-a9126455e6e0/603497866250.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/5JjnPCfpp6redrkKpXZAs8?si=9ba2e3110b6140de",
+    "youtube": "https://www.youtube.com/results?search_query=Roots+Sepultura"
+  },
+  {
+    "titulo": "Love Yourself: Answer",
+    "banda": "BTS",
+    "ano": 2018,
+    "genero": "K-pop, Pop, EDM",
+    "descricao": "A compilação final da série 'Love Yourself'. O álbum quebrou recordes e consolidou o BTS como um fenômeno global, com uma mensagem de autoaceitação e amor próprio.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/00/2c/ff002c29-6da9-1a26-16b3-282a73180366/192562871591_Cover.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/43wFM1HquliY3iwKWzPN4y?si=37741dd3e33f426e",
+    "youtube": "https://www.youtube.com/results?search_query=Love+Yourself+Answer+BTS"
+  },
+  {
+    "titulo": "THE ALBUM",
+    "banda": "BLACKPINK",
+    "ano": 2020,
+    "genero": "K-pop, EDM, Hip Hop",
+    "descricao": "O aguardado álbum de estreia do grupo. Repleto de batidas poderosas e refrões marcantes, inclui colaborações com Selena Gomez e Cardi B, mostrando seu apelo internacional.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/64/46/c364465f-6271-8aae-93a8-b9979d2befe5/20UMGIM82075.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/71O60S5gIJSIAhdnrDIh3N?si=2f36e5aee40e47ec",
+    "youtube": "https://www.youtube.com/results?search_query=THE+ALBUM+BLACKPINK"
+  },
+  {
+    "titulo": "Discovery",
+    "banda": "Daft Punk",
+    "ano": 2001,
+    "genero": "House, Synth-pop, Disco",
+    "descricao": "Um álbum icônico que redefiniu a música eletrônica. Com samples de funk e disco dos anos 70 e 80, criou hinos atemporais como 'One More Time' e 'Harder, Better, Faster, Stronger'.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/2noRn2Aes5aoNVsU6iWThc?si=97042ed4a074405d",
+    "youtube": "https://www.youtube.com/results?search_query=Discovery+Daft+Punk"
+  },
+  {
+    "titulo": "Summer Eletrohits 7",
+    "banda": "Vários Artistas",
+    "ano": 2010,
+    "genero": "Eletrônica, Dance, House",
+    "descricao": "A trilha sonora do verão de muitos brasileiros. Esta edição trouxe hits como 'Stereo Love' e 'I'm in Love (I Wanna Do It)', marcando uma era da dance music nas rádios e festas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9b/Summer_Eletrohits_7.jpg?20130916010253",
+    "spotify": "https://open.spotify.com/playlist/1QNK0ZzU7kdo12Mkg0OI5B?si=wfqyr7YES6ix4DxtxuqT6Q",
+    "youtube": "https://www.youtube.com/results?search_query=Summer+Eletrohits+7"
+  },
+  {
+    "titulo": "The Man-Machine",
+    "banda": "Kraftwerk",
+    "ano": 1978,
+    "genero": "Synth-pop, Eletrônica",
+    "descricao": "Um álbum pioneiro que influenciou profundamente a música eletrônica e o synth-pop. Com seu conceito de robótica e temas futuristas, 'The Man-Machine' é uma obra seminal.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/c1/48/b7c1481a-5a92-4b71-ee35-ab7c890770da/5099996602256.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/3eyz60xEK5dGEeZF1JJSi9?si=2ee7623309c34940",
+    "youtube": "https://www.youtube.com/results?search_query=The+Man-Machine+Kraftwerk"
+  },
+  {
+    "titulo": "Selected Ambient Works 85-92",
+    "banda": "Aphex Twin",
+    "ano": 1992,
+    "genero": "Ambient Techno, IDM, Eletrônica",
+    "descricao": "Uma coleção de faixas ambientais e techno que é amplamente considerada uma das obras mais importantes da música eletrônica. Um álbum atmosférico e inovador.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/7aNclGRxTysfh6z0d8671k?si=bcde66f0bc0e49e4",
+    "youtube": "https://www.youtube.com/results?search_query=Selected+Ambient+Works+85-92+Aphex+Twin"
+  },
+  {
+    "titulo": "Dig Your Own Hole",
+    "banda": "The Chemical Brothers",
+    "ano": 1997,
+    "genero": "Big Beat, Eletrônica",
+    "descricao": "Um álbum que definiu o gênero big beat, misturando batidas de hip-hop, rock psicodélico e acid house. 'Block Rockin' Beats' e 'Setting Sun' são hinos da cultura rave dos anos 90.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/97/0b/4e970b4e-c167-66bf-8495-d8f2f7d3ecfd/14ULAIM00350.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/0FjHy5dCyVROqDUl6f2VTK?si=2fac8d70c6b14362",
+    "youtube": "https://www.youtube.com/results?search_query=Dig+Your+Own+Hole+The+Chemical+Brothers"
+  },
+  {
+    "titulo": "Cross",
+    "banda": "Justice",
+    "ano": 2007,
+    "genero": "Electro House, French House, Eletrônica",
+    "descricao": "O álbum de estreia do duo francês que revitalizou a cena da música eletrônica. Com uma fusão agressiva de electro, disco e funk, 'Cross' é um clássico moderno e dançante.",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/e0/8c/68e08c2d-0176-7790-5aa4-26da7d688c72/5056556115564_cover.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/4GGazqHvuKwxBjWLFaJkDL?si=19f918f871394ae0",
+    "youtube": "https://www.youtube.com/results?search_query=Cross+Justice"
+  },
+  {
+    "titulo": "5-STAR",
+    "banda": "Stray Kids",
+    "ano": 2023,
+    "genero": "K-pop, Hip Hop, Eletrônica",
+    "descricao": "Terceiro álbum de estúdio do grupo, '5-STAR' solidificou o Stray Kids como uma força global, alcançando o topo da Billboard 200. O álbum mistura hip-hop com elementos eletrônicos, abordando temas de confiança e singularidade. [1, 9]",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/3b/1e/5a3b1e2f-1b70-a4b0-6d4d-a33a770f361f/738676860696_Cover.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/3Pel3gWsPxVpZVrciU0Fm6?si=75d9a0aaa20446f8",
+    "youtube": "https://www.youtube.com/results?search_query=Stray+Kids+5-STAR"
+  },
+  {
+    "titulo": "Get Up",
+    "artista": "NewJeans",
+    "ano": 2023,
+    "genero": "K-pop, R&B, Dance",
+    "descricao": "Segundo EP do grupo, 'Get Up' foi aclamado pela crítica por seu som inovador, que mistura R&B com UK garage e Jersey club. O álbum estreou no topo da Billboard 200, destacando a rápida ascensão do NewJeans. [5, 27]",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/4N1fROq2oeyLGAlQ1C1j18?si=530ab0abddc640e0",
+    "youtube": "https://www.youtube.com/results?search_query=NewJeans+Get+Up"
+  },
+  {
+    "titulo": "good kid, m.A.A.d city",
+    "artista": "Kendrick Lamar",
+    "ano": 2012,
+    "genero": "Hip Hop, Gangsta Rap",
+    "descricao": "Considerado um clássico moderno, este álbum conceitual narra a adolescência de Lamar nas ruas de Compton. Aclamado pela crítica por sua narrativa cinematográfica e letras complexas, foi indicado ao Grammy de Álbum do Ano. [6, 16, 44]",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/748dZDqSZy6aPXKcI9H80u?si=73a38f99c6824a4d",
+    "youtube": "https://www.youtube.com/results?search_query=good+kid+m.A.A.d+city+Kendrick+Lamar"
+  },
+  {
+    "titulo": "My Beautiful Dark Twisted Fantasy",
+    "artista": "Kanye West",
+    "ano": 2010,
+    "genero": "Hip Hop, Progressive Rap",
+    "descricao": "Uma obra-prima maximalista, gravada no Havaí após um período de controvérsias. O álbum é conhecido por sua produção opulenta, samples de soul e rock progressivo, e colaborações com artistas como Rihanna, Jay-Z e Bon Iver. [2, 3, 10]",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/79/36/4f/79364f95-df81-e427-f989-86ae4df1c3b9/10UMGIM30072.rgb.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
+    "youtube": "https://www.youtube.com/results?search_query=My+Beautiful+Dark+Twisted+Fantasy+Kanye+West"
+  },
+  {
+    "titulo": "Heresia",
+    "artista": "Djonga",
+    "ano": 2017,
+    "genero": "Rap, Hip Hop Brasileiro",
+    "descricao": "Álbum de estreia que colocou Djonga no mapa do rap nacional. Com letras contundentes sobre questões sociais, racismo e empoderamento negro, 'Heresia' foi aclamado pela crítica e considerado um dos melhores álbuns do ano. [7, 48]",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/ed/78/45ed7889-df85-47ec-3491-9fd5daeabf89/8445162063203.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/7dLOvaC7Qr3cJUt0vo88Os?si=f8a36743509148c5",
+    "youtube": "https://www.youtube.com/results?search_query=Heresia+Djonga"
+  },
+  {
+    "titulo": "Gigantes",
+    "artista": "BK'",
+    "ano": 2018,
+    "genero": "Rap, Hip Hop Brasileiro",
+    "descricao": "Segundo álbum de estúdio de BK', 'Gigantes' explora temas como ambição, superação e a complexidade das relações. O disco conta com participações de peso como Marcelo D2, Baco Exu do Blues e KL Jay. [37, 45]",
+    "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b9/78/fa/b978fac2-a626-ea2e-ea93-5f7e7bf642b4/8429006299409.jpg/600x600bb.jpg",
+    "spotify": "https://open.spotify.com/intl-pt/album/6kjXPFw0BT3SdpWgHwjr32?si=b68216b059f649e7",
+    "youtube": "https://www.youtube.com/results?search_query=Gigantes+BK"
+  }
+]

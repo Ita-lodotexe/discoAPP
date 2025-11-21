@@ -1,0 +1,459 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+
+* {
+  box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
+}
+
+:root {
+  --bg-color: #fffcef;
+  --primary-color: #60514a;
+  --secondary-color: #fff8d8;
+  --tertiary-color: #000000;
+
+  --brand-color-1: #ffc80066;
+  --brand-color-2: #be6600a4;
+  --accent-color: var(--primary-color);
+}
+
+body {
+  margin: 0; /* Remove a margem padrão do body */
+  background: var(--bg-color); /* Define a cor de fundo usando uma variável */
+  color: var(
+    --tertiary-color
+  ); /* Define a cor do texto padrão usando uma variável */
+  font-family: "Roboto Mono", monospace;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ESTILIZAÇÃO DO HEADER DA PÁGINA */
+header {
+  height: 4.5rem; /* seu tamanho preferido */
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* logo à esquerda, busca à direita */
+  padding: 0 2rem; /* espaço das bordas */
+  background: var(--primary-color);
+  overflow: hidden; /* evita transbordamento da logo */
+  gap: 1rem;
+}
+
+.logo {
+  display: block;
+  width: auto; /* mantém proporção */
+  height: 200%; /* aumenta a imagem para cortar a metade inferior */
+  max-height: none;
+  object-fit: cover; /* preenche sem distorcer */
+  object-position: bottom center; /* mostra só a parte superior */
+  flex: 0 0 auto; /* não deixa a imagem empurrar/esticar o header */
+  transform: translateY(25%);
+  cursor: pointer;
+  padding-left: 40px;
+}
+
+.barra-de-pesquisa {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--bg-color); /* a barra envolve input+botão */
+  border-radius: 2rem;
+  padding: 0.25rem; /* espaço interno ao redor */
+  max-width: 30rem;
+  width: clamp(18rem, 35%, 40rem); /* ocupa parte direita sem gambiarras */
+
+  transition: box-shadow 300ms ease, transform 200ms ease;
+  will-change: box-shadow, transform;
+}
+
+.barra-de-pesquisa input {
+  background: transparent;
+  border: none;
+  outline: none;
+  height: 2.4rem;
+  line-height: 2.4rem;
+  padding: 0 0.75rem;
+  font-family: inherit;
+  font-size: 14px;
+  color: var(--tertiary-color);
+  flex: 1;
+  min-width: 0;
+}
+.barra-de-pesquisa input::placeholder {
+  color: var(--tertiary-color);
+  opacity: 0.6;
+  font-size: 12px;
+}
+.barra-de-pesquisa:focus-within {
+  box-shadow: 0 0 5px var(--tertiary-color);
+}
+
+.barra-de-pesquisa button {
+  margin: 0;
+  padding: 0.5rem;
+  border-radius: 2rem;
+  border: none;
+  cursor: pointer;
+  background-color: var(--primary-color);
+  color: var(--bg-color);
+}
+.barra-de-pesquisa button:hover {
+  background-color: var(
+    --primary-color
+  ); /* Muda a cor de fundo ao passar o mouse */
+  color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
+  box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+}
+.barra-de-pesquisa button:active {
+  transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+}
+
+/* ESTILIZAÇÃO DO MAIN*/
+main {
+  flex: 1;
+  max-width: 80rem;
+  margin: 2rem auto 0;
+  padding: 0 2rem; /* passe a ter o mesmo padding lateral do header */
+  box-sizing: border-box;
+  height: auto; /* remove a altura fixa que causa scroll estranho */
+  overflow-x: hidden; /* previne overflow horizontal acidental */
+}
+
+.welcome-section {
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 2rem;
+  gap: 10%;
+}
+.welcome-text {
+  justify-content: space-between;
+  text-align: justify;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  color: var(--tertiary-color);
+  width: 50%;
+}
+.welcome-section svg {
+  width: 30%;
+  height: auto;
+  margin-left: 2rem;
+  fill: var(--primary-color);
+}
+
+/* ESTILIZAÇÃO DOS BANNERS */
+.grid-banners {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.card-banner {
+  height: 300px; /* Altura fixa que você pediu */
+  background-color: var(--primary-color); /* Cor de fundo se a imagem falhar */
+  border-radius: 20px;
+  overflow: hidden; /* Se a imagem for maior, corta as bordas */
+  position: relative; /* Necessário se for colocar texto por cima depois */
+  z-index: 0;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-banner h3 {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 5px;
+  font-size: 50px;
+  text-align: center;
+  z-index: 2;
+}
+.card-banner img {
+  width: 100%;
+  height: 100%; /* Força a imagem a ter a altura do cartão */
+  object-fit: cover; /* O PULO DO GATO */
+}
+.card-banner:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+.card-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: #ffc80066;
+  z-index: 1;
+  transition: background-color 0.3s ease;
+}
+.card-banner:hover::after {
+  background-color: rgba(255, 200, 0, 0);
+}
+
+/* ESTILIZAÇÃO DOS CARDS */
+.card-container {
+  width: 100%;
+  max-width: 80rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(240px, 1fr)
+  ); /* 3 colunas mais largas */
+  gap: 1.5rem;
+  justify-items: stretch;
+  align-items: start;
+  padding: 1.5rem 0; /* só padding vertical, horizontal já vem do main */
+}
+
+/* visual "quadrado, arredondado e fofo" para os cards */
+.card-album {
+  width: 100%;
+  max-width: 600px; /* controla o tamanho máximo do card */
+  margin: 0 auto; /* centraliza cada card na sua coluna */
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 8px 22px rgba(96, 81, 74, 0.08);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.75rem;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+/* imagem quadrada dentro do card */
+.card-album img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 10px;
+  flex: 0 0 auto;
+  box-shadow: inset 0 -6px 18px rgba(0, 0, 0, 0.03);
+}
+
+.card-album h2,
+h4 {
+  margin: 0;
+  font-size: 1.05rem;
+  text-align: center;
+  color: var(--secondary-color);
+  line-height: 1.1;
+}
+
+.card-album p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.45;
+  color: var(--secondary-color);
+  text-align: justify; /* aqui: justificado */
+  hyphens: auto;
+  max-height: 6.5rem; /* limita altura para manter layout */
+  overflow: hidden;
+}
+
+/* ícones de ação compactos na base */
+.card-album .actions {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+/* interações suaves */
+.card-album:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(96, 81, 74, 0.14);
+}
+
+.card-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.icon-brand {
+  color: var(--brand-color-1);
+  width: 20px;
+  height: auto;
+  transition: color 0.3s ease, scale 0.3s ease, box-shadow 0.3s ease;
+}
+.icon-brand:hover {
+  color: #ffffff;
+  scale: 1.2;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+/* responsividade: 2 colunas / 1 coluna */
+@media (max-width: 900px) {
+  .card-container {
+    grid-template-columns: repeat(2, minmax(180px, 1fr));
+  }
+  .card-album {
+    width: 100%;
+    max-width: 260px;
+  }
+}
+@media (max-width: 480px) {
+  .card-container {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .card-album {
+    width: 100%;
+    max-width: none;
+    padding: 0.9rem;
+  }
+}
+
+.destaque-semana {
+  background-color: #1a1a1a; /* Fundo escuro para destacar */
+  color: white;
+  padding: 4rem 2rem;
+  margin-top: 3rem;
+}
+
+.destaque-conteudo {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center; /* Alinha verticalmente */
+  gap: 3rem;
+}
+
+.destaque-imagem img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1); /* Brilho sutil */
+  transform: rotate(3deg); /* Charminho visual (torta) */
+}
+
+/* Celular: Imagem em cima, texto embaixo */
+@media (max-width: 768px) {
+  .destaque-conteudo {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+}
+
+.footer {
+  position: static;
+  width: 100%;
+  color: var(--tertiary-color);
+  background-color: var(--brand-color-2);
+  padding: 15px 20px;
+  border-top: 1px solid #3c4043;
+  font-size: 0.8rem;
+}
+
+.footer-location {
+  margin-bottom: 10px; /* Margem inferior */
+}
+
+.footer-links {
+  list-style: none; /* Remove os marcadores da lista */
+  display: flex; /* Habilita o layout flexbox */
+  flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+  justify-content: center; /* Centraliza os itens horizontalmente */
+  gap: 15px; /* Espaçamento entre os links */
+}
+
+.footer-links a {
+  color: var(--tertiary-color); /* Cor do link */
+  text-decoration: none; /* Remove o sublinhado */
+  transition: color 0.2s; /* Transição suave para a cor */
+}
+
+.footer-links a:hover {
+  color: var(
+    --accent-color
+  ); /* Muda a cor do link ao passar o mouse (variável não definida) */
+}
+
+@media (max-width: 768px) {
+  header {
+    /* Estilos para telas com largura máxima de 768px */
+    flex-direction: column; /* Organiza os itens do cabeçalho em coluna */
+    padding: 1rem; /* Reduz o espaçamento interno */
+  }
+
+  header h1 {
+    /* Estilos para o h1 no cabeçalho em telas menores */
+    text-align: center; /* Centraliza o texto */
+    margin-bottom: 1rem; /* Adiciona margem inferior */
+  }
+
+  div input {
+    /* Estilos para o input em telas menores */
+    width: 90vw; /* Largura baseada na largura da viewport */
+    font-size: 1.2rem; /* Reduz o tamanho da fonte */
+  }
+
+  main {
+    /* Estilos para o main em telas menores */
+    padding: 0 1rem; /* Adiciona espaçamento lateral */
+  }
+
+  article:hover {
+    /* Estilos para o article em telas menores */
+    transform: none; /* Remove o efeito de escala ao passar o mouse */
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    /* Estilos para o h1 em telas com largura máxima de 480px */
+    font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
+    max-width: 70%; /* Define uma largura máxima */
+    word-wrap: break-word; /* Permite a quebra de palavras longas */
+  }
+
+  div input, /* Estilos para o input e seu placeholder em telas muito pequenas */
+    div input::placeholder {
+    font-size: 1rem; /* Reduz o tamanho da fonte */
+  }
+
+  article h2 {
+    /* Estilos para o h2 do article em telas muito pequenas */
+    font-size: 1.3rem; /* Reduz o tamanho da fonte */
+  }
+
+  div {
+    /* Estilos para a div do cabeçalho em telas muito pequenas */
+    display: flex; /* Habilita flexbox */
+    align-items: center; /* Alinha itens ao centro */
+    justify-content: center; /* Centraliza itens */
+    flex-direction: column; /* Organiza em coluna */
+    gap: 0.5rem; /* Espaçamento entre os itens */
+  }
+
+  .footer {
+    /* Estilos para o rodapé em telas muito pequenas */
+    display: none; /* Oculta o rodapé */
+  }
+
+  button {
+    /* Estilos para o botão em telas muito pequenas */
+    margin-top: 1rem; /* Adiciona margem no topo */
+  }
+}
+
+@media (max-width: 480px) {
+  .card-album {
+    width: 140px;
+    padding: 0.75rem;
+  }
+  .card-album h2 {
+    font-size: 0.95rem;
+  }
+  .card-album p {
+    font-size: 0.8rem;
+  }
+}
