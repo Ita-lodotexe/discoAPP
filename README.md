@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Imersão+Dev&message=Alura&color=6c63ff&style=for-the-badge&logo=alura" alt="Badge Imersão Dev Alura" />
-  <img src="https://img.shields.io/static/v1?label=Status&message=Concluído&color=2ecc71&style=for-the-badge" alt="Badge Status Concluído" />
+  <img src="https://img.shields.io/static/v1?label=Imers%C3%A3o%20Dev&message=Alura&color=6c63ff&style=for-the-badge&logo=alura" alt="Badge Imersão Dev Alura" />
+  <img src="https://img.shields.io/static/v1?label=Status&message=Conclu%C3%ADdo&color=2ecc71&style=for-the-badge" alt="Badge Status Concluído" />
 </p>
 
 ---
 
 ## 🎸 Sobre
 
->O **Disco APP** é uma aplicação web desenvolvida durante a **Imersão Dev com Google Gemini** da Alura. 
+O **Disco APP** é uma aplicação web desenvolvida durante a **Imersão Dev com Google Gemini** da Alura. 
 
 O objetivo foi criar uma base de conhecimento interativa. Inspirado na estética de Jukeboxes antigas e lojas de vinil, o projeto vai além de uma lista simples, oferecendo uma experiência visual imersiva onde o usuário pode explorar discografias, conhecer detalhes de álbuns clássicos e receber recomendações.
 
@@ -64,5 +64,4 @@ Você pode acessar o projeto online clicando no botão abaixo:
 ## 🛠️ Como rodar localmente
 
 1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/Ita-lodotexe/DiscoApp](https://github.com/Ita-lodotexe/DiscoApp)
+     git clone https://github.com/Ita-lodotexe/DiscoApp
