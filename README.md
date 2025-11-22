@@ -64,4 +64,6 @@ Você pode acessar o projeto online clicando no botão abaixo:
 ## 🛠️ Como rodar localmente
 
 1. Clone este repositório:
-     git clone https://github.com/Ita-lodotexe/DiscoApp
+   ```bash
+   git clone https://github.com/Ita-lodotexe/DiscoApp
+   ```
